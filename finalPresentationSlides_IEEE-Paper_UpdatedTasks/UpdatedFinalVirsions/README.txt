@@ -1,4 +1,3 @@
 CHANGES I HAVE MADE
 
-The diagrams is bit unclear, I have uploaded new diagrams. (In the paper and separatly)
-some  references are missing, I add them
+The diagrams is bit unclear, PLEASE BE KIND ENOUGH TO REFER THEM IN THE SEPARATED UPLOADED JPEG FILES TO THIS FOLDER: tHANK YOU
