@@ -1,8 +1,2 @@
-Here is the final updates
-
-
-The diagrams is bit unclear, 
-
-PLEASE BE KIND ENOUGH TO REFER THEM IN THE SEPARATED UPLOADED JPEG FILES TO THIS FOLDER 
-
-tHANK YOU
+Please select finalFinalVersion 
+Thank you
